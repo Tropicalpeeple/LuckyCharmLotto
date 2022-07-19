@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.dddcc807.chunk.css",
-    "main.js": "/static/js/main.bbee4e71.chunk.js",
-    "main.js.map": "/static/js/main.bbee4e71.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.9924efcf.js",
-    "runtime-main.js.map": "/static/js/runtime-main.9924efcf.js.map",
-    "static/js/2.03e45b99.chunk.js": "/static/js/2.03e45b99.chunk.js",
-    "static/js/2.03e45b99.chunk.js.map": "/static/js/2.03e45b99.chunk.js.map",
-    "static/js/3.9b13d86d.chunk.js": "/static/js/3.9b13d86d.chunk.js",
-    "static/js/3.9b13d86d.chunk.js.map": "/static/js/3.9b13d86d.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.dddcc807.chunk.css.map": "/static/css/main.dddcc807.chunk.css.map",
-    "static/js/2.03e45b99.chunk.js.LICENSE.txt": "/static/js/2.03e45b99.chunk.js.LICENSE.txt",
-    "static/media/DLL.686c0d11.svg": "/static/media/DLL.686c0d11.svg",
-    "static/media/App.css": "/static/media/body_background.1acdac27.png",
-    "static/media/algo.ecbc85e5.svg": "/static/media/algo.ecbc85e5.svg"
+    "main.css": "/LuckyCharmLotto/static/css/main.990f8c7c.chunk.css",
+    "main.js": "/LuckyCharmLotto/static/js/main.bbee4e71.chunk.js",
+    "main.js.map": "/LuckyCharmLotto/static/js/main.bbee4e71.chunk.js.map",
+    "runtime-main.js": "/LuckyCharmLotto/static/js/runtime-main.e99a79d6.js",
+    "runtime-main.js.map": "/LuckyCharmLotto/static/js/runtime-main.e99a79d6.js.map",
+    "static/js/2.03e45b99.chunk.js": "/LuckyCharmLotto/static/js/2.03e45b99.chunk.js",
+    "static/js/2.03e45b99.chunk.js.map": "/LuckyCharmLotto/static/js/2.03e45b99.chunk.js.map",
+    "static/js/3.9b13d86d.chunk.js": "/LuckyCharmLotto/static/js/3.9b13d86d.chunk.js",
+    "static/js/3.9b13d86d.chunk.js.map": "/LuckyCharmLotto/static/js/3.9b13d86d.chunk.js.map",
+    "index.html": "/LuckyCharmLotto/index.html",
+    "static/css/main.990f8c7c.chunk.css.map": "/LuckyCharmLotto/static/css/main.990f8c7c.chunk.css.map",
+    "static/js/2.03e45b99.chunk.js.LICENSE.txt": "/LuckyCharmLotto/static/js/2.03e45b99.chunk.js.LICENSE.txt",
+    "static/media/DLL.686c0d11.svg": "/LuckyCharmLotto/static/media/DLL.686c0d11.svg",
+    "static/media/App.css": "/LuckyCharmLotto/static/media/body_background.1acdac27.png",
+    "static/media/algo.ecbc85e5.svg": "/LuckyCharmLotto/static/media/algo.ecbc85e5.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.9924efcf.js",
+    "static/js/runtime-main.e99a79d6.js",
     "static/js/2.03e45b99.chunk.js",
-    "static/css/main.dddcc807.chunk.css",
+    "static/css/main.990f8c7c.chunk.css",
     "static/js/main.bbee4e71.chunk.js"
   ]
 }
